@@ -1,0 +1,22 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "SQL Challenge Module 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JeenaKozhimukkath/Employee-Tracker.git"
+  },
+  "author": "JK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeenaKozhimukkath/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/JeenaKozhimukkath/Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
