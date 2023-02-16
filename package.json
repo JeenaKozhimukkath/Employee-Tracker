@@ -4,7 +4,8 @@
   "description": "SQL Challenge Module 10",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "mysql2": "^3.1.0"
   }
 }
