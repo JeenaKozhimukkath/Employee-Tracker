@@ -32,7 +32,11 @@ https://github.com/JeenaKozhimukkath/Employee-Tracker.git
 # Video
 
 
-[Employee_Tracker.webm](https://user-images.githubusercontent.com/39594923/219228409-fd0258bd-6259-4bf5-b57e-b13287cce71f.webm)
+
+https://user-images.githubusercontent.com/39594923/219229198-4cab54f0-ac96-4606-a25c-09da74c27f24.mp4
+
+
+
 
 
 
